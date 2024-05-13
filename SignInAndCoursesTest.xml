@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name="SignInAndCoursesSuite" verbose="1">
+    <test name="SignInAndCoursesTest">
+        <classes>
+            <class name="SignInTest" priority = "1"/>
+            <class name="HomePageTest"/>
+            <class name="AddCoursePageTest"/>
+        </classes>
+    </test>
+</suite>
